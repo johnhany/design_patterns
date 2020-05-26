@@ -22,6 +22,10 @@ C++实现的22种设计模式
 
 适用于需要分很多步骤创建不同对象的情景。
 
+### 原型（Prototype）
+
+适用于需要复制复杂的对象，并希望新复制的对象独立于原来的代码。
+
 ## Structural patterns
 
 ## Behavioral patterns
