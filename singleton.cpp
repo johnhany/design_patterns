@@ -46,8 +46,8 @@ Model& Model::getInstanceSafe(const string& id) {
 void trainer1() {
     // Emulates slow initialization.
     std::this_thread::sleep_for(std::chrono::milliseconds(1000));
-    //Model* model = Model::getInstance("model_1");
-    //model->train();
+    // Model* model = Model::getInstance("model_1");
+    // model->train();
 
     Model::getInstanceSafe("model_1").train();
 }
