@@ -1,10 +1,16 @@
 # design_patterns
 
+[《以深度学习为例理解22种设计模式（一）创建型模式》](http://johnhany.net/2020/05/design-patterns-for-deep-learning-1-creational-pattern)
+
+[《以深度学习为例理解22种设计模式（二）结构型模式》](http://johnhany.net/2020/05/design-patterns-for-deep-learning-2-structural-pattern)
+
+[《以深度学习为例理解22种设计模式（三）行为模式》](http://johnhany.net/2020/05/design-patterns-for-deep-learning-3-behavioral-pattern)
+
 C++实现的22种设计模式
 
-代码参考自[《深入设计模式》](https://refactoring.guru/design-patterns)
-
 为了便于理解，所有代码以机器学习模型的构建\训练过程为例
+
+代码参考自[《深入设计模式》](https://refactoring.guru/design-patterns)
 
 ## 创建型模式（Creational patterns）
 
