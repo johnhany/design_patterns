@@ -2,7 +2,7 @@
 
 C++实现的22种设计模式
 
-代码改写自[《深入设计模式》](https://refactoring.guru/design-patterns)
+代码参考自[《深入设计模式》](https://refactoring.guru/design-patterns)
 
 为了便于理解，所有代码以机器学习模型的构建\训练过程为例
 
@@ -61,3 +61,7 @@ C++实现的22种设计模式
 适用于允许延迟调用一个十分耗费资源的复杂对象的情景。可以在不修改服务对象的前提下，增加缓存、日志等功能。
 
 ## 行为模式（Behavioral patterns）
+
+### 责任链（Chain of responsibility）
+
+适用于以不同方式处理请求，但处理请求的顺序事先未知或需要在运行时调整顺序的情景。
